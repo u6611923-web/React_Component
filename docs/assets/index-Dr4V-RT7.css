@@ -1,0 +1,1 @@
+body{background-color:#d3d3d3;justify-content:center;align-items:center;min-height:100vh;margin:0;display:flex}.app{flex-direction:column;align-items:center;gap:16px;display:flex}nav{gap:16px;display:flex}.card{background-color:#fff;border-radius:8px;flex-direction:column;justify-content:center;align-items:center;width:200px;min-height:200px;margin-top:10px;display:flex}
